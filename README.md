@@ -12,4 +12,4 @@ Standardize Date Format
 
 <img src="cd_img/housingDcv.png" width="600">
   
- The date was with the time 
+ The date was with the time, so I removed the time part and just keep the date.
