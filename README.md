@@ -10,4 +10,4 @@ Software used:
 
 Standardize Date Format
 
-<img src="cd_img/housingDcv.png" width="800">
+<img src="cd_img/housingDcv.png" width="600">
