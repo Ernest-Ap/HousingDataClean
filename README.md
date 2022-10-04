@@ -26,11 +26,24 @@ Break property addresses
   
 <img src="cd_img/breakadd.png" width="600">
  <br>
-I used the substring and len methods to break up the property address.
+I used the substring, CHARINDEX and len methods to break up the property address.
   
 Break the owner address.
   
 <img src="cd_img/breakoadd.png" width="600">
  <br>
 I used the parsename and replace methods. 
+  
+Change Y and N to Yes and No in "Sold as Vacant" field
+ 
+<img src="cd_img/ynsold.png" width="600">
+  <br>
+ The case method was used to perform this improvement of the data. 
+  
+ Duplicates
+  
+ <img src="cd_img/duplicates.png" width="600">
+  <br>
+ With, AS, row_number, over, partition by, order by, where and order by methods used. The delete method was used to remove the duplicates.   
+  
 
