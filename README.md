@@ -51,7 +51,7 @@ Change Y and N to Yes and No in "Sold as Vacant" field
  <img src="cd_img/deleteTab.png" width="600">
  <br>
  I will delete the ownerAddress, TaxDistrict and the property address. The alter table and drop column methods are used to do this. 
- 
+ <br><br>
  <img src="cd_img/tabsGone.png" width="600">
  <br>
  The propertyAddress, ownerAddress and the taxDistrict tables are deleted. Also the I deleted the SalesDate table.
