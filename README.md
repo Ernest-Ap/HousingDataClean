@@ -45,5 +45,16 @@ Change Y and N to Yes and No in "Sold as Vacant" field
  <img src="cd_img/duplicates.png" width="600">
   <br>
  With, AS, row_number, over, partition by, order by, where and order by methods used. The delete method was used to remove the duplicates.   
-  
+ 
+ Delete Unused Columns
+ 
+ <img src="cd_img/deleteTab.png" width="600">
+ <br>
+ I will delete the ownerAddress, TaxDistrict and the property address. The alter table and drop column methods are used to do this. 
+ 
+ <img src="cd_img/tabsGone.png" width="600">
+ <br>
+ The propertyAddress, ownerAddress and the taxDistrict tables are deleted. Also the I deleted the SalesDate table.
+ 
+ 
 
